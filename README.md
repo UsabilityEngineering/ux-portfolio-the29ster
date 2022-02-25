@@ -7,4 +7,4 @@
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Journal Entry #1](j01/)
