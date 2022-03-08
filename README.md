@@ -10,7 +10,9 @@
 
 ## Introduction:
 
-Nathan Whitney, Thomas Shelton, CS Tutor, Phase I: Requirements Gathering
+Phase I: Requirements Gathering
+Project Name: CS Tutor
+Team Members: Nathan Whitney, Thomas Shelton
 
 ## Methods:
 
