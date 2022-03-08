@@ -6,7 +6,7 @@
 
 ## UX Team Project
 
-Executive Summary:
+# Executive Summary:
 
 Introduction:
 
