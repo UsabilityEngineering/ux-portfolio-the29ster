@@ -4,34 +4,34 @@
 
 ![2020-09-04 18 33 03](https://user-images.githubusercontent.com/86084524/155828296-9e916e50-20c0-4194-987f-6b337a1e9874.jpg)
 
-## UX Team Project
+# UX Team Project
 
-# Executive Summary:
+## Executive Summary:
 
-Introduction:
+## Introduction:
 
 Nathan Whitney, Thomas Shelton, CS Tutor, Phase I: Requirements Gathering
 
-Methods:
+## Methods:
 
 Survey and Interviews
 
-Findings:
+## Findings:
 
-Conclusions:
+## Conclusions:
 
-Caveats:
+## Caveats:
 
-Personas:
+## Personas:
 
-Scenarios:
+## Scenarios:
 
-Supplementary Materials:
+## Supplementary Materials:
 
 [CS Tutor Student Survey - Google Forms.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209449/CS.Tutor.Student.Survey.-.Google.Forms.pdf)
 
 [Instrument Design.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209453/Instrument.Design.pdf)
 
-## UX Journal
+# UX Journal
 
 [Journal Entry #1](j01/)
