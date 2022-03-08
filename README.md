@@ -6,8 +6,6 @@
 
 # UX Team Project
 
-## Executive Summary:
-
 ## Introduction:
 
 Phase I: Requirements Gathering
@@ -15,6 +13,8 @@ Phase I: Requirements Gathering
 Project Name: CS Tutor
 
 Team Members: Nathan Whitney, Thomas Shelton
+
+## Executive Summary:
 
 ## Methods:
 
