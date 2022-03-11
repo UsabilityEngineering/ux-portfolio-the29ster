@@ -6,6 +6,8 @@
 
 # UX Team Project
 
+## [CS Tutor](https://usabilityengineering.github.io/CS-Tutor/)
+
 # UX Journal
 
 [Journal Entry #1](j01/)
