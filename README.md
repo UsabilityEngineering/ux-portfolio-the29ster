@@ -4,10 +4,10 @@
 
 ![2020-09-04 18 33 03](https://user-images.githubusercontent.com/86084524/155828296-9e916e50-20c0-4194-987f-6b337a1e9874.jpg)
 
-# UX Team Project
+## UX Team Project
 
-## [CS Tutor](https://usabilityengineering.github.io/CS-Tutor/)
+[CS Tutor](https://usabilityengineering.github.io/CS-Tutor/)
 
-# UX Journal
+## UX Journal
 
 [Journal Entry #1](j01/)
