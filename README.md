@@ -11,3 +11,5 @@
 ## UX Journal
 
 [Journal Entry #1](j01/)
+[Journal Entry #2](j02/)
+[Journal Entry #3 - Coming soon !!!]()
