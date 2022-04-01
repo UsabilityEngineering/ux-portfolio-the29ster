@@ -14,4 +14,4 @@
 
 [Journal Entry #2](j02/)
 
-[Journal Entry #3 - Coming soon !!!]()
+[Journal Entry #3 - Coming soon !!!](j03/)
